@@ -1,0 +1,16 @@
+{
+  "name": "console-template",
+  "version": "1.0.0",
+  "description": "Console project with readline",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "keywords": ["learn programming", "readline", "node"],
+  "author": "David Andersson",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
